@@ -1,0 +1,4 @@
+➜  ~ cd ~/Code/SDGKU/FSDI_111
+➜  FSDI_111 git:(main) source venv/bin/activate
+(venv) ➜  FSDI_111 git:(main) code .
+(venv) ➜  FSDI_111 git:(main)
